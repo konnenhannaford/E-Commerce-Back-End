@@ -12,14 +12,16 @@
 * [License](#license)
 
 ## Description
-App can be accessed via - https://lit-atoll-31253.herokuapp.com/
+Online shopping has blown up in the past years to becoe the dominant form of retail. As such, its improtant that those running these online shops can have relaible access to the stocks available for them to sell.  This app uses express, mysql and sequelise to bring about this information. This app will allow users to document the catalogue of products avaialble with information that is updatable and easily identifiable using several descriptive searches.
 
-This is a Note Taker app that will allow users to create and save notes on the provided link.  once saved, users can view old notes and make updates as well as remove old notes that may no longer be needed.
 
 ## Technologies
 JavaScript, Node JS, Express, MYSQL, Sequelize, 
 
 ## Usage
+
+This video gives a run through of the app
+https://watch.screencastify.com/v/RZls4yAdgwPklNRoW1vZ
 
 Load the MySQL and Sequelize packages to connect your Express.js API to a MySQL database 
 Sensitive Data is stored in dotenv file to protect user info
